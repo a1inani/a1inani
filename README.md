@@ -1,4 +1,4 @@
-# Hi there, I'm a1inani! 👋
+# Hi there, I'm Alinani! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. Below you will find more information about me, my skills, and my projects.
 
